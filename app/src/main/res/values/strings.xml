@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Employees</string>
+    <string name="download_data">Download Data</string>
+    <string name="downloading_data">Downloading Data…</string>
+    <string name="enter_empl_no_or_dept_no">Enter Empl No or Dept No</string>
+    <string name="submit">Submit</string>
+    <string name="view_all_employees">View All Employees</string>
+    <string name="view_all_department">View All Department</string>
+    <string name="emp_no">Emp No:</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="hire_date">Hire Date:</string>
+    <string name="birth_date">Birth Date:</string>
+    <string name="gender">Gender:</string>
+    <string name="dept_no">Dept No:</string>
+    <string name="title">Title:</string>
+    <string name="salary">Salary:</string>
+    <string name="to_date">To Date</string>
+    <string name="from_date">From Date:</string>
+    <string name="dept_name">Dept Name:</string>
+    <string name="no_data_found">No Data Found</string>
+
+    <string-array name="query_type">
+        <item>Get Employee with Title</item>
+        <item>Get Employee with Salaries</item>
+        <item>Get Employee with Department</item>
+        <item>Get Departments with Manager</item>
+        <item>Get Departments with Employee</item>
+    </string-array>
+</resources>
